@@ -1,0 +1,2 @@
+# Sorting-points-based-on-their-angle-from-a-fixed-point
+This code reads a list of points from a text file, calculates the angle in degrees between each point and a fixed point, and sorts the list of points based on their angle using the merge sort algorithm. The sorted list is printed to the console. Three functions are used: find_the_angle, find_list_of_angles, and finding_list_of_sorted_points.
